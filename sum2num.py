@@ -1,7 +1,7 @@
 # Program to find the sum of two numbers
 # Read two numbers from user
-num1 = float(input("Enter first number: "))
-num2 = float(input("Enter second number: "))
+num1 = 10
+num2 = 20
 
 # Calculate sum
 sum = num1 + num2
